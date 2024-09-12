@@ -12,7 +12,7 @@
 
 - 📫 Reach me at **tasleem25ahmed@gmail.com**  
 
-- 👨‍💻 All of my projects are available at [TasleemSharif02](https://TasleemSharif02.github.io)
+- 👨‍💻 All of my projects are available at [TasleemSharif02](https://github.com/TasleemSharif02?tab=repositories)
 
 <h3 align="left">Connect with me: </h3>
 <p align="left"> 
