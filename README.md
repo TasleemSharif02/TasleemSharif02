@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tasleem Sharif Ahmed</h1>
 
-<h3 align="center">A passionate full stack developer </h3>   
+<h3 align="center">A passionate Front-End Developer </h3>   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TasleemSharif02&label=Profile%20views&color=0e75b6&style=flat" alt="TasleemSharif02" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **React JS project**
 
-- 💬 Ask me about **React, React Native, NodeJs and JavaScript**
+- 💬 Ask me about **React and JavaScript**
 
 - 📫 Reach me at **tasleem25ahmed@gmail.com**  
 
